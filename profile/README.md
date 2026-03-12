@@ -1,4 +1,4 @@
-A staging area for scientific 3D image (voxel-based and mesh/graph) processing, ML and simulation, part of [ai4netzero](https://github.com/ai4netzero):
+A staging area for scientific 3D image (voxel-based and mesh/graph) processing, ML and simulation -- part of [ai4netzero](https://github.com/ai4netzero):
 
 * Most repositories here will eventually be made bublic on the [ai4netzero](https://github.com/ai4netzero) GitHub account.
 
